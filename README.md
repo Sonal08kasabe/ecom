@@ -1,2 +1,2 @@
 # ecom
-It is an beginner level eCommerce project
+It is a beginner level eCommerce project
